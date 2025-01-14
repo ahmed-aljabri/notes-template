@@ -1,2 +1,2 @@
 # notes-template
-Minimalist typewriter template in LateX
+A minimalist typewriter template in LateX.
